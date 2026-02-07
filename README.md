@@ -77,17 +77,20 @@ Java-focused developer actively building backend development skills using **Spri
 ## 📊 GitHub Overview & Activity
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/chethanhrx?template=classic&base.activity=1&base.repositories=1&base.community=1&base.metadata=1&config.timezone=Asia/Kolkata" />
+  <img src="https://metrics.lecoq.io/chethanhrx?template=classic&base.header=1&base.activity=1&base.repositories=1&base.community=1&base.metadata=1&config.timezone=Asia/Kolkata" />
 </p>
 
-> Displays **total repositories, total commits, contribution activity**, and profile metadata using a stable GitHub metrics service.
+<p align="center">
+  <b>GitHub:</b> <a href="https://github.com/chethanhrx">github.com/chethanhrx</a>
+</p>
+
+> Shows **GitHub username, total repositories, total commits, and contribution activity** using a stable metrics provider.
 
 ---
 
 ## 📫 Contact
 
-- 📧 **chethankumarhr751@gmail.com**
-- 💬 Telegram: [@nitechk](https://t.me/nitechk)
+- 📧 **Email:** chethankumarhr751@gmail.com
 
 ---
 
