@@ -2,19 +2,19 @@
 
 <h3 align="center">
 <span style="color:#2ecc71;">
-Java Backend Developer • Spring Boot • REST APIs • Problem Solving
+Java • Spring Boot • REST APIs • Problem Solving
 </span>
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=560&color=2ECC71&lines=Java+Backend+Development;Spring+Boot+%26+REST+APIs;Clean+and+Scalable+Systems;Strong+DSA+%26+Problem+Solving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=560&color=2ECC71&lines=Java+Focused+Development;Working+with+Spring+Boot+and+REST+APIs;Clean+and+Maintainable+Code;Strong+Problem+Solving+Mindset" />
 </p>
 
 ---
 
 ## 👨‍💻 Professional Summary
 
-Backend-focused developer specializing in **Java and Spring Boot**, with experience building RESTful services, integrating third-party APIs, and designing reliable backend systems. Strong problem-solving mindset supported by consistent **DSA practice** and real-world automation work. Focused on writing **clean, maintainable, and scalable code**.
+Java-focused developer actively building backend development skills using **Spring Boot and RESTful APIs**. Hands-on experience with backend automation, third-party API integrations, and consistent **DSA practice**. Focused on writing **clean, readable, and scalable code** while continuously improving backend system design and problem-solving abilities.
 
 ---
 
@@ -29,31 +29,31 @@ Backend-focused developer specializing in **Java and Spring Boot**, with experie
 </p>
 
 ### Backend & Databases
-- **Spring Boot**
-- **REST API Development**
-- **JPA / Hibernate**
-- **MySQL**
+- Java-based backend development
+- Spring Boot (REST APIs, Controllers, JPA)
+- MySQL
+- API design and integration
 
 ### Tools & Platforms
-- **Git & GitHub**
-- **Apache**
-- **Linux / Termux**
-- **VS Code**
+- Git & GitHub
+- Apache
+- Linux / Termux
+- VS Code
 
 ### API & Automation Experience
 - Telegram Bot API  
 - Stripe Payment Gateway  
 - OxaPay Crypto Payments  
-- Webhooks & Payment Automation  
+- Webhooks & backend automation  
 
 ---
 
-## 🧠 Problem Solving (DSA)
+## 🧠 Problem Solving
 
-- Strong algorithmic thinking and analytical skills  
-- Regular practice on **LeetCode**
-- Comfortable with time & space complexity analysis
+- Strong analytical and logical thinking
+- Regular problem solving on **LeetCode**
 - Focus on optimized and readable solutions
+- Comfortable with time and space complexity analysis
 
 ---
 
@@ -74,23 +74,13 @@ Backend-focused developer specializing in **Java and Spring Boot**, with experie
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Overview & Activity
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/chethanhrx?template=classic&base.activity=1&base.repositories=1&base.metadata=1&config.timezone=Asia/Kolkata" />
+  <img src="https://metrics.lecoq.io/chethanhrx?template=classic&base.activity=1&base.repositories=1&base.community=1&base.metadata=1&config.timezone=Asia/Kolkata" />
 </p>
 
-> Displays repositories, contribution activity, and **total commits** using a stable metrics provider.
-
----
-
-## 📂 Focus Areas
-
-- Java Backend Systems
-- Spring Boot REST APIs
-- Payment & Bot Automation
-- Backend Utilities & Tools
-- Problem Solving & DSA
+> Displays **total repositories, total commits, contribution activity**, and profile metadata using a stable GitHub metrics service.
 
 ---
 
