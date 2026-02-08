@@ -12,7 +12,7 @@ Java • Spring Boot • REST APIs • Problem Solving
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Summary
 
 Java-focused developer actively building backend development skills using **Spring Boot and RESTful APIs**. Hands-on experience with backend automation, third-party API integrations, and consistent **DSA practice**. Focused on writing **clean, readable, and scalable code** while continuously improving backend system design and problem-solving abilities.
 
