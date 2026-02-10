@@ -29,16 +29,16 @@ Java-focused developer actively building backend development skills using **Spri
 </p>
 
 ### Backend & Databases
-- Java-based backend development
-- Spring Boot (REST APIs, Controllers, JPA)
-- MySQL
-- API design and integration
+- Java-based backend development  
+- Spring Boot (REST APIs, Controllers, JPA)  
+- MySQL  
+- API design and integration  
 
 ### Tools & Platforms
-- Git & GitHub
-- Apache
-- Linux / Termux
-- VS Code
+- Git & GitHub  
+- Apache  
+- Linux / Termux  
+- VS Code  
 
 ### API & Automation Experience
 - Telegram Bot API  
@@ -50,10 +50,10 @@ Java-focused developer actively building backend development skills using **Spri
 
 ## 🧠 Problem Solving
 
-- Strong analytical and logical thinking
-- Regular problem solving on **LeetCode**
-- Focus on optimized and readable solutions
-- Comfortable with time and space complexity analysis
+- Strong analytical and logical thinking  
+- Regular problem solving on **LeetCode**  
+- Focus on optimized and readable solutions  
+- Comfortable with time and space complexity analysis  
 
 ---
 
@@ -77,20 +77,36 @@ Java-focused developer actively building backend development skills using **Spri
 ## 📊 GitHub Overview & Activity
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/chethanhrx?template=classic&base.header=1&base.activity=1&base.repositories=1&base.community=1&base.metadata=1&config.timezone=Asia/Kolkata" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=chethanhrx&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=chethanhrx&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethanhrx&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
+  />
+</p>
+
+<p align="center">
+  <b>📌 Includes:</b> Total Contributions • Current Streak • Max Streak • Public Repositories
 </p>
 
 <p align="center">
   <b>GitHub:</b> <a href="https://github.com/chethanhrx">github.com/chethanhrx</a>
 </p>
 
-> Shows **GitHub username, total repositories, total commits, and contribution activity** using a stable metrics provider.
-
 ---
 
 ## 📫 Contact
 
-- 📧 **Email:** chethankumarhr751@gmail.com
+- 📧 **Email:** chethankumarhr751@gmail.com  
 
 ---
 
