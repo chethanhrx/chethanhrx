@@ -25,8 +25,6 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Coding GIF"/>
-
 ## 🧑‍💻 About Me
 
 ```java
@@ -34,7 +32,8 @@ public class ChethanKumarHR {
 
     String role      = "Java Backend Developer";
     String focus     = "Spring Boot & REST APIs";
-    String location  = "India 🇮🇳";
+    String location  = "Thirthahalli, India 🇮🇳";
+    String portfolio = "my-portfolio-eight-psi-57.vercel.app";
 
     String[] currentlyLearning = {
         "Spring Boot", "System Design",
@@ -56,6 +55,8 @@ public class ChethanKumarHR {
 - 🧠 Daily **DSA practice** on LeetCode
 - 🔌 Experienced with **third-party API integrations** (Stripe, Telegram, OxaPay)
 - 📌 Focused on **clean, readable, and scalable code**
+- 📍 Based in **Thirthahalli, India 🇮🇳**
+- 🌐 Portfolio: [my-portfolio-eight-psi-57.vercel.app](https://my-portfolio-eight-psi-57.vercel.app/)
 - 📫 Reach me at **chethankumarhr751@gmail.com**
 
 ---
@@ -66,35 +67,26 @@ public class ChethanKumarHR {
 
 ### 💻 Languages
 <p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://skillicons.dev/icons?i=java,python,php,js&theme=dark" />
 </p>
 
 ### ⚙️ Backend & Databases
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-2ECC71?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,postman&theme=dark" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,apache&theme=dark" />
 </p>
 
 ### 🔌 API & Integrations
 <p>
-  <img src="https://img.shields.io/badge/Telegram%20Bot%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webhooks-2ECC71?style=for-the-badge&logo=zapier&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OxaPay%20Crypto-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=telegram&theme=dark" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OxaPay-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 </p>
 
 </div>
@@ -167,6 +159,10 @@ public class ChethanKumarHR {
 &nbsp;
 <a href="https://leetcode.com/chethank_hr/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
+<a href="https://my-portfolio-eight-psi-57.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2ECC71?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
 </div>
