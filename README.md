@@ -40,12 +40,12 @@ status: "Daily DSA grind + shipping side projects 🚀"
 
 ### 🧩 Quick Facts
 
-- 🎓 BCA Graduate, Java Full Stack @ JSpiders  
-- 🛡️ Building **WatchTower** — observability platform  
-- 🎪 Building **EventBridge** — vendor marketplace  
-- ♟️ Side project: **NeuraMate**, a chess engine  
-- 🐧 Daily driver: Linux Mint  
-- 📫 chethankumarhr751@gmail.com  
+- 🎓 BCA Graduate, Java Full Stack @ JSpiders
+- 🛡️ Building **WatchTower** — observability platform
+- 🎪 Building **EventBridge** — vendor marketplace
+- ♟️ Side project: **NeuraMate**, a chess engine
+- 🐧 Daily driver: Linux Mint
+- 📫 chethankumarhr751@gmail.com
 
 </td>
 </tr>
@@ -71,10 +71,10 @@ status: "Daily DSA grind + shipping side projects 🚀"
 
 ## 📊 The Numbers
 
-<img src="https://github-readme-stats.vercel.app/api?username=chethanhrx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f0ff&icon_color=b388ff&text_color=ffffff&ring_color=00f0ff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chethanhrx&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f0ff&fire=b388ff&currStreakLabel=00f0ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chethanhrx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f0ff&icon_color=b388ff&text_color=ffffff&ring_color=00f0ff&count_private=true&cache_seconds=1800" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=chethanhrx&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f0ff&fire=b388ff&currStreakLabel=00f0ff" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethanhrx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethanhrx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&cache_seconds=1800" height="165"/>
 
 </div>
 
@@ -100,7 +100,7 @@ status: "Daily DSA grind + shipping side projects 🚀"
 
 ## 🏆 Trophy Case
 
-<img src="https://github-profile-trophy.vercel.app/?username=chethanhrx&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=chethanhrx&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
 </div>
 
@@ -110,10 +110,10 @@ status: "Daily DSA grind + shipping side projects 🚀"
 
 ## 🤝 Let's Connect
 
-<a href="mailto:chethankumarhr751@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-<a href="https://github.com/chethanhrx"><img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
-<a href="https://leetcode.com/chethank_hr/"><img src="https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-<a href="https://chethanhrx.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=netlify&logoColor=00f0ff"/></a>
+<a href="mailto:chethankumarhr751@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335&v=2"/></a>
+<a href="https://github.com/chethanhrx"><img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=ffffff&v=2"/></a>
+<a href="https://leetcode.com/chethank_hr/"><img src="https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116&v=2"/></a>
+<a href="https://chethanhrx.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=netlify&logoColor=00f0ff&v=2"/></a>
 
 <br/><br/>
 
