@@ -16,7 +16,7 @@
 
 ## About
 
-I'm a Java Full Stack Developer based in Bangalore, focused on backend systems that need to hold up under real load — Spring Boot services, Kafka-driven pipelines, and the distributed-systems patterns that keep them observable and recoverable. I co-founded **Ortex**, a small software studio where I lead architecture decisions before a line of implementation code gets written.
+I'm a Java Full Stack Developer based in Bangalore, focused on backend systems that need .to hold up under real load — Spring Boot services, Kafka-driven pipelines, and the distributed-systems patterns that keep them observable and recoverable. I co-founded **Ortex**, a small software studio where I lead architecture decisions before a line of implementation code gets written.
 
 Currently building **WatchTower**, a cybersecurity and observability platform, and **EventBridge**, a vendor marketplace for event planning. Outside of client and product work, I'm going deeper on system design and clean architecture, and running a chess engine side project (**NeuraMate**) as a way to apply ML fundamentals outside the web-app context.
 
