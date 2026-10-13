@@ -1,87 +1,72 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=CHETHAN%20KUMAR%20H%20R&fontSize=50&fontColor=00f0ff&fontAlignY=42&desc=Java%20Full%20Stack%20Developer%20%E2%80%A2%20System%20Architect&descAlignY=58&descSize=20&descFontColor=b388ff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,45:172554,100:0f766e&height=230&section=header&text=CHETHAN%20KUMAR%20H%20R&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineering%20%7C%20Open%20Source&descSize=15&descAlignY=58&descColor=cbd5e1" width="100%" alt="Chethan Kumar H R — Full-Stack Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=Spring+Boot+%E2%80%A2+Microservices+%E2%80%A2+Kafka;Building+WatchTower+%26+EventBridge;High-Concurrency+Backend+Engineering" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://github.com/chethanhrx?tab=followers"><img src="https://img.shields.io/github/followers/chethanhrx?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=0f0c29&color=b388ff&v=2" height="28"/></a>
-&nbsp;
-<a href="https://leetcode.com/chethank_hr/"><img src="https://img.shields.io/badge/LEETCODE-chethank__hr-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0f0c29&v=2" height="28"/></a>
+<a href="https://github.com/chethanhrx?tab=followers"><img src="https://img.shields.io/github/followers/chethanhrx?style=flat&logo=github&label=Followers&color=0f766e" alt="GitHub followers" /></a>
+<img src="https://img.shields.io/badge/Focus-Backend%20%26%20Framework%20Engineering-172554?style=flat" alt="Focus: backend and framework engineering" />
+<img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Collaboration-334155?style=flat" alt="Open to learning and collaboration" />
 
 </div>
 
-<br/>
+## Hey, I'm Chethan 👋
 
-## About
+I'm a full-stack developer who enjoys understanding how software works beneath the surface—from designing clean APIs and backend architecture to building useful, polished user experiences.
 
-I'm a Java Full Stack Developer based in Bangalore, focused on backend systems that need .to hold up under real load — Spring Boot services, Kafka-driven pipelines, and the distributed-systems patterns that keep them observable and recoverable. I co-founded **Ortex**, a small software studio where I lead architecture decisions before a line of implementation code gets written.
+My main interests are **backend engineering, developer tools, open source, and practical AI integration**. I like learning by building, measuring what matters, and improving systems one iteration at a time.
 
-Currently building **WatchTower**, a cybersecurity and observability platform, and **EventBridge**, a vendor marketplace for event planning. Outside of client and product work, I'm going deeper on system design and clean architecture, and running a chess engine side project (**NeuraMate**) as a way to apply ML fundamentals outside the web-app context.
+- 🔭 **Currently focused on:** FlintPHP, a lightweight PHP framework for building web applications and APIs.
+- ⚙️ **Backend:** PHP, Java, Spring Boot, Python, REST APIs, authentication, and application architecture.
+- 🎨 **Frontend:** React, TypeScript, JavaScript, Vite, and Tailwind CSS.
+- 🗄️ **Data & tooling:** PostgreSQL, MySQL, MongoDB, Git, Linux, and Docker.
+- 🧠 **Exploring:** framework internals, performance, clean code, AI/LLM integration, and system design.
+- 🤝 **Interested in:** meaningful open-source contributions, collaborative engineering, and solving real problems.
 
-**Contact:** chethankumarhr751@gmail.com
+## What I Enjoy Building
 
-<br/>
+- **Backend systems** — maintainable APIs, clear architecture, and reliable application logic.
+- **Developer tools** — practical tools and frameworks that make development simpler.
+- **Full-stack applications** — thoughtful interfaces connected to dependable backend services.
+- **AI-powered features** — useful integrations that solve a real problem rather than adding AI for its own sake.
 
-## Tech Stack
+## Tech Toolbox
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,nextjs,nodejs,python&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=php,java,spring,python,js,ts,react,nodejs&perline=8" alt="PHP, Java, Spring, Python, JavaScript, TypeScript, React, Node.js" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kafka,git,github&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,vite,postgres,mysql,mongodb,docker&perline=8" alt="HTML, CSS, Tailwind CSS, Vite, PostgreSQL, MySQL, MongoDB, Docker" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=linux,vscode,postman,vercel,netlify,html,css,figma&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&perline=8" alt="Git, GitHub, Linux, VS Code, Postman" />
 
 </div>
 
-<br/>
+## A Little About My Approach
 
-## Featured Projects
+> Build with curiosity. Keep the design understandable. Test assumptions. Measure performance. Improve continuously.
 
-| Project | Description | Stack |
-|---|---|---|
-| **[WatchTower](https://github.com/chethanhrx)** | Observability and security monitoring platform — log ingestion, alerting, and dashboarding for distributed systems. | Java 21 · Spring Boot · Kafka · Redis · Elasticsearch |
-| **[EventBridge](https://github.com/chethanhrx)** | Marketplace connecting event vendors (decorators, photographers, caterers) with people planning events. | React · Tailwind |
-| **[NeuraMate](https://github.com/chethanhrx)** | Chess engine driven by a two-network architecture, built as a deep dive into applied ML. | Python |
+I value readable code, practical engineering decisions, and learning the fundamentals behind the tools I use. I'm always working to become a stronger engineer—not just by shipping features, but by understanding why they work.
 
-<br/>
+## GitHub Activity
 
 <div align="center">
 
-## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=chethanhrx&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics" />
+<img src="https://streak-stats.demolab.com?user=chethanhrx&hide_border=true&theme=transparent" height="165" alt="GitHub contribution streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=chethanhrx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f0ff&icon_color=b388ff&text_color=ffffff&ring_color=00f0ff&count_private=true&cache_seconds=1800" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=chethanhrx&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f0ff&fire=b388ff&currStreakLabel=00f0ff" height="165"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethanhrx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f0ff&text_color=ffffff&cache_seconds=1800" height="165"/>
+## Let's Connect
+
+<div align="center">
+
+<a href="mailto:chethankumarhr751@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Chethan" /></a>
+<a href="https://github.com/chethanhrx"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-172554?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+<a href="https://chethanhrx.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-334155?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
 <div align="center">
 
-## LeetCode
-
-<a href="https://leetcode.com/chethank_hr/">
-  <img src="https://leetcard.jacoblin.cool/chethank_hr?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=12" width="560"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## Connect
-
-<a href="mailto:chethankumarhr751@gmail.com"><img src="https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335&v=2"/></a>
-<a href="https://github.com/chethanhrx"><img src="https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=ffffff&v=2"/></a>
-<a href="https://leetcode.com/chethank_hr/"><img src="https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=FFA116&v=2"/></a>
-<a href="https://chethanhrx.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=netlify&logoColor=00f0ff&v=2"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+*Thanks for stopping by — always learning, always building.* ✨
 
 </div>
